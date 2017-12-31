@@ -8,4 +8,4 @@ nav-menu: true
 developer books and resources
 
 
-[Guide To Java Volume IV](https://gitlab.com/apavelescu/java-dev-resources/raw/master/dzone-guidetojava-volumeiv.pdf)
+[Guide To Java Volume IV](https://gitlab.com/apavelescu/java-dev-resources/raw/master/dzone-guidetojava-volumeiv.pdf){:target="_blank"}
