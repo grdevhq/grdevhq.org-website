@@ -1,5 +1,5 @@
 ---
-title: Education | Developer Resources
+title: Developer Resources
 layout: post
 image: http://localhost:4000/assets/images/pic03.jpg
 nav-menu: true
