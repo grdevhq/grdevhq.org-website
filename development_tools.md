@@ -2,6 +2,7 @@
 title: Development Tools
 image: "/assets/images/workstation_mess.jpg"
 layout: post
+nav-menu: true
 ---
 
 ### **Java Development Environment - Vagrant and Virtualbox**
